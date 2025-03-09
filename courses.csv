@@ -1,0 +1,50 @@
+COURSE_NAME,PREREQUISITE,TOTAL_HOURS,SEMESTER,LECTURE_HOURS,SECTION_HOURS,LAB_HOURS,COURSE_ID,TEACHING_PROGRAM,YEAR_VERSION,COURSE_DESCRIPTION
+Differential Calculus,None,3,S1,3,0,0,1,CCE001,2025,Introduction to Differential Calculus
+Physics of Materials,None,3,S1,3,0,0,2,CCE001,2025,Introduction to Physics of Materials
+Chemistry,None,3,S1,3,0,0,3,CCE001,2025,Introduction to Chemistry
+Statics,None,3,S1,3,0,0,4,CCE001,2025,Introduction to Statics
+Drawing (I),None,3,S1,3,0,0,5,CCE001,2025,Introduction to Drawing (I)
+Foreign Language,None,3,S1,3,0,0,6,CCE001,2025,Introduction to Foreign Language
+Integral Calculus & Geometry,Differential Calculus,3,S2,3,0,0,7,CCE001,2025,Introduction to Integral Calculus & Geometry
+Heat & Light,Physics of Materials,3,S2,3,0,0,8,CCE001,2025,Introduction to Heat & Light
+Principles of Manufacturing,None,3,S2,3,0,0,9,CCE001,2025,Introduction to Principles of Manufacturing
+Dynamics,Statics,3,S2,3,0,0,10,CCE001,2025,Introduction to Dynamics
+Drawing (II),Drawing (I),3,S2,3,0,0,11,CCE001,2025,Introduction to Drawing (II)
+Introduction to Information Technology,None,3,S2,3,0,0,12,CCE001,2025,Introduction to Introduction to Information Technology
+Principles of Entrepreneurship and Project Ma,None,2,Elective,2,0,0,13,CCE001,2025,Introduction to Principles of Entrepreneurship and Project Management
+Communication and Presentation Skills,None,2,Elective,2,0,0,14,CCE001,2025,Introduction to Communication and Presentation Skills
+Leadership Skills,None,2,Elective,2,0,0,15,CCE001,2025,Introduction to Leadership Skills
+Human Resources Management,None,2,Elective,2,0,0,16,CCE001,2025,Introduction to Human Resources Management
+"History of Science, Engineering and Technolog",None,2,Elective,2,0,0,17,CCE001,2025,"Introduction to History of Science, Engineering and Technology"
+Skills Thinking,None,2,Elective,2,0,0,18,CCE001,2025,Introduction to Skills Thinking
+Occupational Psychology,None,2,Elective,2,0,0,19,CCE001,2025,Introduction to Occupational Psychology
+Introduction to Economics and Accounting,None,2,Elective,2,0,0,20,CCE001,2025,Introduction to Introduction to Economics and Accounting
+Report Writing Skills,GEN901,2,Elective,2,0,0,21,CCE001,2025,Introduction to Report Writing Skills
+"Legislations, Contract and Procurement Manage",None,2,Elective,2,0,0,22,CCE001,2025,"Introduction to Legislations, Contract and Procurement Management"
+Electromagnetic Waves Propagation,ELE242,3,Elective,3,0,0,23,CCE001,2025,Introduction to Electromagnetic Waves Propagation
+Antennas and Waves Propagation,None,3,Elective,3,0,0,24,CCE001,2025,Introduction to Antennas and Waves Propagation
+Satellite Communication Systems,ELE342,3,Elective,3,0,0,25,CCE001,2025,Introduction to Satellite Communication Systems
+Microwave Engineering,ELE242,3,Elective,3,0,0,26,CCE001,2025,Introduction to Microwave Engineering
+Computer Architecture,ELE351,3,Elective,3,0,0,27,CCE001,2025,Introduction to Computer Architecture
+Compilers,None,3,Elective,3,0,0,28,CCE001,2025,Introduction to Compilers
+Machine Learning Algorithms,ELE354,3,Elective,3,0,0,29,CCE001,2025,Introduction to Machine Learning Algorithms
+Cryptography and Network Security,ELE352,3,Elective,3,0,0,30,CCE001,2025,Introduction to Cryptography and Network Security
+Optical Communication Systems,"ELE351, BAS211",2,Elective,2,0,0,31,CCE001,2025,Introduction to Optical Communication Systems
+Digital Control Systems,ELE351,2,Elective,2,0,0,32,CCE001,2025,Introduction to Digital Control Systems
+Acoustic Signal Processing,None,2,Elective,2,0,0,33,CCE001,2025,Introduction to Acoustic Signal Processing
+Adaptive Signal Processing,ELE244,2,Elective,2,0,0,34,CCE001,2025,Introduction to Adaptive Signal Processing
+Advanced Topics in Wireless Communication,ELE342,2,Elective,2,0,0,35,CCE001,2025,Introduction to Advanced Topics in Wireless Communication
+Radar Engineering,ELE242,2,Elective,2,0,0,36,CCE001,2025,Introduction to Radar Engineering
+Modern Networks,ELE441,2,Elective,2,0,0,37,CCE001,2025,Introduction to Modern Networks
+RF Engineering,ELE346,2,Elective,2,0,0,38,CCE001,2025,Introduction to RF Engineering
+Modeling and Simulations,None,2,Elective,2,0,0,39,CCE001,2025,Introduction to Modeling and Simulations
+Neural Networks and Deep Learning,ELE354,2,Elective,2,0,0,40,CCE001,2025,Introduction to Neural Networks and Deep Learning
+Computer Graphics,ELE354,2,Elective,2,0,0,41,CCE001,2025,Introduction to Computer Graphics
+Parallel and Distributed Systems,None,2,Elective,2,0,0,42,CCE001,2025,Introduction to Parallel and Distributed Systems
+Data Mining,ELE354,2,Elective,2,0,0,43,CCE001,2025,Introduction to Data Mining
+Mobile Computing,"ELE353, ELE342",2,Elective,2,0,0,44,CCE001,2025,Introduction to Mobile Computing
+Big Data Analysis,ELE353,2,Elective,2,0,0,45,CCE001,2025,Introduction to Big Data Analysis
+Web Development,None,2,Elective,2,0,0,46,CCE001,2025,Introduction to Web Development
+Image Processing,ELE497,2,Elective,2,0,0,47,CCE001,2025,Introduction to Image Processing
+Microprocessor,ELE352,2,Elective,2,0,0,48,CCE001,2025,Introduction to Microprocessor
+Digital Systems Design,"ELE152, ELE241",2,Elective,2,0,0,49,CCE001,2025,Introduction to Digital Systems Design
